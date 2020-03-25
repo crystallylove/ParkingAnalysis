@@ -1,4 +1,4 @@
 /doc/
-/ipynb/
-.ipynb_checkpoints/
-.idea/
+ipynb
+.idea
+.ipynb_checkpoints

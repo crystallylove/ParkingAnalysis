@@ -1,1 +1,4 @@
 /doc/
+/ipynb/
+.ipynb_checkpoints/
+.idea/
